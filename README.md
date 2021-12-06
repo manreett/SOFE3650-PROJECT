@@ -9,7 +9,7 @@
 
 # Project Title :
 Art Gallery Website 
-
+https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/1203e8c4051b930bcb39fa976d2d48b720da6e08/Design%20QAs.pdf
 # Group Members:
 Manreet Kaur - 100766207 
 Ammar Salmawy - 100756573
