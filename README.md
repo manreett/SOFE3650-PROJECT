@@ -7,7 +7,6 @@
 5. Requirements 
 6. Use Case Model-1.pdf
 
-Design QAs.pdf 
 # Project Title :
 Art Gallery Website 
 
