@@ -1,6 +1,6 @@
 # SOFE3650-PROJECT-GROUP-17
 
-1. Old commits - Folder of drafts
+
 2. Design QAs.pdf - Quality Attributes
 3. Design constraints.pdf - Constraints
 4. README.md - System description
