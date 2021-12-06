@@ -24,11 +24,6 @@ The system administrator manages the website by addign removing art pieces, chan
 The justification for Art Gallery is that artists need a place to buy and sell their work. Not only do artists need a platform, but clients looking to purchase the art need a place to go.
 With Art Gallery, we are providing that connection between artists and their admirers.
 
-## Phases of work
-  
-* 
-- 
-
 ## table of contents
 
 ### 1. [Phase I](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%201)
@@ -48,6 +43,7 @@ Developing the website according to the design and requirements. Nov 5 - Dec 7
 * [Iteration 3](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Iteration%203)
      * [Iteration 1.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Iteration%203/Iteration%203.pdf)
 * [Project report.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Art%20Gallery%20Webiste%20-Project%20Report.pdf)
+* [Kanban Project](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/projects/1)
 ## Metrics for evaluating and monitoring
 The most important metric is making sure the deliverables stay relevant to the scope of the project. 
 The system must also meet its functional and non-functional requirements. For example, all transactions done through the system are secure with a high level of successful rate. 
