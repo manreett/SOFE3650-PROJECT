@@ -11,9 +11,9 @@ Table of Contents:
 Art Gallery Website 
 
 ## Group Members:
-Manreet Kaur - 100766207 
-Ammar Salmawy - 100756573
-Haiqa Tikka - 100739498
+* Manreet Kaur - 100766207 
+* Ammar Salmawy - 100756573
+* Haiqa Tikka - 100739498
 
 ## Overview
 Art Gallery is a website that allows users to create accounts to browse and buy art pieces.
