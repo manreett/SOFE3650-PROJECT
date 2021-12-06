@@ -25,9 +25,11 @@ The justification for Art Gallery is that artists need a place to buy and sell t
 With Art Gallery, we are providing that connection between artists and their admirers.
 
 ## Phases of work
-1. [Phase I](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%201): Collecting information and [requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%201/Requirements.pdf)  from users and understanding the domain of the problem. Sep 6 - Oct 11 
-2. [Phase II](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%202): designing use case models and setting constraints and quality attributes Oct 12 – Nov 8
+1. [Phase I](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%201): Collecting information and [requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%201/Requirements.pdf)  from users and understanding the domain of the problem Sep 6 - Oct 11 
+2. [Phase II](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%202): designing use case models and setting constraints and quality attributes; [Project Progress Report](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%202/Project%20Progress%20Report%20.pdf). Oct 12 – Nov 8
 3. [Phase III](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203): developing the website according to the design and requirements. Nov 5 - Dec 7
+- [Design Process](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Design%20Process/Design%20Process.pdf)
+
 
 ## Metrics for evaluating and monitoring
 The most important metric is making sure the deliverables stay relevant to the scope of the project. 
