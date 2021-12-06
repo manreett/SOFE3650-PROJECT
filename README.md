@@ -25,7 +25,7 @@ The justification for Art Gallery is that artists need a place to buy and sell t
 With Art Gallery, we are providing that connection between artists and their admirers.
 
 ## Phases of work
-Phase I: Collecting information and requirements from users and understanding the domain of the problem. Sep 6 - Oct 11 
+[Phase I](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%201): Collecting information and requirements from users and understanding the domain of the problem. Sep 6 - Oct 11 
 Phase II: designing use case models and setting constraints and quality attributes Oct 12 – Nov 8
 Phase III: developing the website according to the design and requirements. Nov 5 - Dec 7
 
