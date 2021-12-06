@@ -24,7 +24,7 @@ The system administrator manages the website by addign removing art pieces, chan
 The justification for Art Gallery is that artists need a place to buy and sell their work. Not only do artists need a platform, but clients looking to purchase the art need a place to go.
 With Art Gallery, we are providing that connection between artists and their admirers.
 
-## table of contents
+## Table of Contents
 
 ### 1. [Phase I](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%201)
 Collecting information and requirements from users and understanding the domain of the problem Sep 6 - Oct 11
