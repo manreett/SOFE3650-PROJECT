@@ -14,5 +14,6 @@
     * [Quality Attributes](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Quality%20Attributes.JPG)
     * [Use Case Model](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Model.JPG)
     * [Use Case Table](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Table.JPG)
-    * [Constraints](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Constraints.JPG)
-* [Kanban Project](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/projects/1)
+    * [Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/functional%20requirements.JPG)
+    * [Non_Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/non_functional%20requirements.JPG)
+    
