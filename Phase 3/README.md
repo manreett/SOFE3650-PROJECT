@@ -1,5 +1,5 @@
 # Phase 3: ADD process 
-in this phase we used the ADD process design architecture, we followed  three iteration process to idintify system structure, made design desicion to address Use Cases, concerns, quality attributes, and other Requirements
+in this phase we followed three iterations of the ADD process to idintify system structure, and made design desicion to address Use Cases, concerns, quality attributes, and other Requirements
 
 * [Design Process](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Design%20Process)
      * [Design Process.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Design%20Process/Design%20Process.pdf)
