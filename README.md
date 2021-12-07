@@ -34,7 +34,7 @@ Designing use case models and setting constraints and quality attributes. Oct 12
   * [Project Progress Report](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%202/Project%20Progress%20Report%20.pdf)
 ### 3. [Phase III](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203)
 Developing the website according to the design and requirements. Nov 5 - Dec 7
-  * [Design Process](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Design%20Process)
+* [Design Process](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Design%20Process)
      * [Design Process.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Design%20Process/Design%20Process.pdf)
 * [Iteration 1](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Iteration%201)
      * [Iteration 1.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Iteration%201/Iteration%201.pdf)
@@ -43,6 +43,7 @@ Developing the website according to the design and requirements. Nov 5 - Dec 7
 * [Iteration 3](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Iteration%203)
      * [Iteration 1.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Iteration%203/Iteration%203.pdf)
 * [Project report.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Art%20Gallery%20Webiste%20-Project%20Report.pdf)
+* [Appendices](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Appendices)
 * [Kanban Project](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/projects/1)
 ## Metrics for evaluating and monitoring
 The most important metric is making sure the deliverables stay relevant to the scope of the project. 
