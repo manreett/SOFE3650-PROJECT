@@ -44,14 +44,15 @@ Developing the website according to the design and requirements. Nov 5 - Dec 7
      * [Iteration 1.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Iteration%203/Iteration%203.pdf)
 * [Project report.pdf](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Art%20Gallery%20Webiste%20-Project%20Report.pdf)
 
-### 4. * [Appendices](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Appendices)
-    * [Concerns](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Concerns.JPG)
-    * [Constraints](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Constraints.JPG)
-    * [Quality Attributes](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Quality%20Attributes.JPG)
-    * [Use Case Model](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Model.JPG)
-    * [Use Case Table](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Table.JPG)
-    * [Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/functional%20requirements.JPG)
-    * [Non_Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/non_functional%20requirements.JPG)
+### 4. [Appendices](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/tree/main/Phase%203/Appendices)
+* [Concerns](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Concerns.JPG)
+* [Constraints](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Constraints.JPG)
+* [Quality Attributes](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Quality%20Attributes.JPG)
+* [Use Case Model](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Model.JPG)
+* [Use Case Table](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/Use%20Case%20Table.JPG)
+* [Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/functional%20requirements.JPG)
+* [Non_Functional Requirements](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/blob/main/Phase%203/Appendices/non_functional%20requirements.JPG)
+
 ### 5. [Kanban Project](https://github.com/manreett/SOFE3650-PROJECT-GROUP-17/projects/1)
 ## Metrics for evaluating and monitoring
 The most important metric is making sure the deliverables stay relevant to the scope of the project. 
