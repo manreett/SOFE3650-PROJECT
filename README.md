@@ -1,4 +1,4 @@
-# SOFE3650-PROJECT-GROUP-17
+# SOFE3650-PROJECT
 
 ## Project Title : Art Gallery Website 
 
